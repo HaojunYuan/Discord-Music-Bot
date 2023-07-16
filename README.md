@@ -1,4 +1,4 @@
-# Discord Music Bot
+# Siren
 A discord bot that can play music from youtube links. <br>
 Invite the bot to your server: [Invite link](https://discord.com/api/oauth2/authorize?client_id=1129949491324268635&permissions=8&scope=bot).
 
