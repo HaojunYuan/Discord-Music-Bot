@@ -12,26 +12,3 @@ Invite the bot to your server: [Invite link](https://discord.com/api/oauth2/auth
 * `/pause` - pauses the current song being played or resumes if already paused
 * `/resume` - resumes playing the current song
 
-# Installation
-To run the discord bot all you need is `python 3.4` or above.\
-install dependencies of the python that are needed for the bot.\
-  \
-youtube_dl:
-  ```md
-  pip install yt-dlp
-  ```
-
-ffmpeg:
-  ```md
-  pip install ffmpeg
-  ```
-You can also use homebrew if you are using mac:
-  ```md
-  brew install ffmpeg
-  ```
-
-PyNaCl:
-  ```md
-  pip install PyNaCl
-  ```
-
