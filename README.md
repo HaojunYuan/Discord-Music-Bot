@@ -35,27 +35,3 @@ PyNaCl:
   pip install PyNaCl
   ```
 
-# Token
-Add your Bot Token by going to the [DEVELOPER PORTAL](https://discord.com/developers/applications/).
-  1. Login by using your discord account.
-  2. Create New Application.
-  3. Go to Bot then Add Bot.
-  4. Reset Token then Copy the new Token the Paste it in the File Token in the Bot folder.
-  5. Go to Privileged Gateway Intents and Enable `PRESENCE INTENT` , `SERVER MEMBERS INTENT` , `MESSAGE CONTENT INTENT` .
-
-# Invite to Discord Server
-  1. To invite the Bot to ur server go to `OAuth2` -> `URL Generator`.
-  2. Set the `SCOPES" to "Bot`.
-  3. Set the `BOT PERMISSIONS` to `Administrator`.
-  4. Copy the `GENERATED URL` the paste it in the browser, then invite your Bot.
-
-# Creating a bot
-To create a bot follow Pawel Bes [tutorial](https://www.youtube.com/watch?v=PJDuI9n7rWE&t=325s&ab_channel=Computeshorts). 
-
-# Deploying your bot
-Lastly you'll need to deploy your bot. 
-Navgate to the Bot Folder in command line:
-  ```md
-python main.py
-  ```
-
